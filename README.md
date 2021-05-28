@@ -5,3 +5,8 @@ Get the hero to the flag at the end of the level, good luck in avoiding the enem
 ## How To Play
 Use the WAD keys to move. D moves your hero right. A moves your hero left. W moves your hero up or makes the hero jump.
 
+## Screenshots of "Minibot"
+
+![Start Screen](https://raw.githubusercontent.com/carson24x7/Platform-Game-Minibot/main/Screenshots/Startscreen.PNG)
+
+![Level = 1](https://raw.githubusercontent.com/carson24x7/Platform-Game-Minibot/main/Screenshots/Level%20-%201.PNG)
