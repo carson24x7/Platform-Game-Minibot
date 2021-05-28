@@ -6,6 +6,7 @@ Use the WAD keys to move. D moves your hero right. A moves your hero left. W mov
 
 ## Levels
 There are 5 levels in total for my game. Each level will get progressively harder the more levels you complete with level 1 being the easiest and level 5 being the hardest. Each level has a different theme and different block style, as well as different types of enemies for that level.
+
 ## Screenshots of "Minibot"
 
 ![Start Screen](https://raw.githubusercontent.com/carson24x7/Platform-Game-Minibot/main/Screenshots/Startscreen.PNG)
